@@ -1,0 +1,10 @@
+header h1 a {
+    color: red;
+    background-color: aliceblue;
+    text-align: center;
+    }
+    #style {
+        background-color: aqua;
+        width: 100%;
+        height: 100%;
+    }
